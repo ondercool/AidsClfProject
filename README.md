@@ -12,7 +12,7 @@
 - After Detailed research, I tuned the hyperparameters for each model I selected
 - With these tuned models, I created a VotingClassifier which uses predictions of multiple classifiers to come up with a more robust one
 
- ###Results
+ ### Results
 - Even when my models are trained with few data (~2000 entries), they performed well on data
   Specifically, f1-scores:
   - CatBoostClassifier: 0.94
