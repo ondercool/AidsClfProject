@@ -14,11 +14,11 @@
 
  ###Results
 - Even when my models are trained with few data (~2000 entries), they performed well on data
-- Specifically, f1-scores:
-- - CatBoostClassifier: 0.94
-- - XGBC Classifier: 0.93
-- - Random Forest Classifier: 0.93
-- - Voting Classifier: 0.94
+  Specifically, f1-scores:
+  - CatBoostClassifier: 0.94
+  - XGBC Classifier: 0.93
+  - Random Forest Classifier: 0.93
+  - Voting Classifier: 0.94
 
 <b>NOTE</b>: For further comments and analysis on models and data, refer to my notebook in which I explained the concepts
 and data in more depth 
